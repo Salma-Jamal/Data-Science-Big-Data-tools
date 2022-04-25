@@ -10,7 +10,3 @@ This repository Contains materials for the Data Science & Big Data Course.
 * Lab04: Some data pre-processing methods and techniques on a skin cancer dataset.
 * Lab05: Kmeans Clustring Algorithm practice.
 * Lab06: Decision Tree Algorithm practice.
-
-
-
-![image](https://drive.google.com/uc?export=view&id=11z3QejtB30fV3zww7pGpJCayroPl2Wpd)
