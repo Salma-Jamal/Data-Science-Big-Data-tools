@@ -11,3 +11,4 @@ This repository Contains materials for the Data Science & Big Data Course.
 * Lab05: Kmeans Clustring Algorithm practice.
 * Lab06: Decision Tree Algorithm practice.
 * Lab07: Overview of Hadoop Storage and processing components.
+* Lab08: Get an overview about Hive and Learn how to use Hive to create tables and perform queries against them.
