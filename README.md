@@ -13,3 +13,4 @@ This repository Contains materials for the Data Science & Big Data Course.
 * Lab07: Overview of Hadoop Storage and processing components.<br><br>
 * Lab08: Get an overview about Hive and Learn how to use Hive to create tables and perform queries against them.<br><br>
 * Lab09: Intro to Spark, Spark RDD and Spark SQL.<br><br>
+* Lab10: Apply user defined functions (UDF) on Your Dataframe Columns and kmeans using pyspark SQL & pyspark MLlib
