@@ -1,6 +1,6 @@
 # Data Science Big Data Tools
 
-This repository Contains notebooks for the Data Science & Big Data tools exploring.
+This repository Contains notebooks for Data Science & Big Data tools exploring.
 
 ## Details
 
